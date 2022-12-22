@@ -1,0 +1,12 @@
+.create-blog-section {
+    padding: 10px;
+    h1.title {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .input-block {
+        .MuiFormControl-root.MuiTextField-root {
+            width: 100%;
+        }
+    }
+}
